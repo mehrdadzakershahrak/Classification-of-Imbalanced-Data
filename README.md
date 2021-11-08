@@ -11,9 +11,9 @@ The data is masked and consists of both categorical, and numerical data. Further
 Cited as:
     
     @article{zakershahrak2021,
-      title="Advanced Regression techniques",
+      title="Classification of imbalanced data",
       author="Mehrdad Zakershahrak",
       journal="https://github.com/mehrdadzakershahrak",
       year="2021",
-      url = "https://github.com/mehrdadzakershahrak/Advanced-Regression-Techniques.git"
+      url = "https://github.com/mehrdadzakershahrak/Classification-of-Imbalanced-Data.git"
     }
